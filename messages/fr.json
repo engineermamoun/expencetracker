@@ -1,0 +1,47 @@
+{
+  "Login": {
+    "title": "Suivi des Dépenses",
+    "description": "Le suivi des dépenses est un outil conçu pour aider les particuliers ou les entreprises à suivre leurs transactions financières et leurs dépenses. Il permet aux utilisateurs d'enregistrer diverses dépenses, telles que les achats, les factures et autres coûts, de manière organisée et systématique.",
+    "register": "S'inscrire",
+    "dontHaveAccount": "Vous n'avez pas de compte ?",
+    "email": "Email",
+    "password": "Mot de passe",
+    "login": "Connexion"
+  },
+  "Register": {
+    "title": "Suivi des Dépenses",
+    "description": "Créer un nouveau compte",
+    "alreadyHaveAccount": "Vous avez déjà un compte ?",
+    "username": "Nom d'utilisateur",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmez le mot de passe",
+    "register": "S'inscrire"
+  },
+  "Home": {
+    "title": "Suivi des Dépenses",
+    "visualizeBalance": "Visualiser le solde",
+    "yourBalance": "Votre solde",
+    "income": "Revenu",
+    "expense": "Dépense",
+    "history": "Historique",
+    "addNewTransaction": "Ajouter une nouvelle transaction",
+    "name": "Nom",
+    "amount": "Montant",
+    "enterName": "Entrez le nom...",
+    "enterAmount": "Entrez le montant...",
+    "startDate": "Date de début",
+    "addTransaction": "Ajouter la transaction",
+    "noTransactionsYet": "Aucune transaction pour le moment",
+    "logout": "Déconnexion"
+  },
+  "Graph": {
+    "title": "Évolution des Montants",
+    "Amount": "Montant",
+    "noTransactionsYet": "Aucune transaction pour le moment"
+  },
+  "Metadata": {
+    "title": "Suivi des Dépenses",
+    "description": "Le suivi des dépenses est un outil conçu pour aider à suivre les transactions financières"
+  }
+}
